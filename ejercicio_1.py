@@ -25,7 +25,6 @@ def Inversa(a, n):
   else:
     print("No existe inverso multiplicativo")
 		
-#####
 
 Inversa(3,9)
 Inversa(3,4)
